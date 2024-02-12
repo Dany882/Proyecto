@@ -1,2 +1,2 @@
 # Proyecto
-Proyecto para despliegue
+Proyecto para aprender a usar GitHub
